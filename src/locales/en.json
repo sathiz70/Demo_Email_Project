@@ -1,0 +1,16 @@
+{
+	"PLEASE_REGISTER": "User not found, Please register",
+	"WRONG_PASSWORD": "Wrong password entered",
+	"PLEASE_LOGIN": "Please login",
+	"ACCESS_DENIED": "Access denied",
+	"ADDED_SUCCESSFULLY": "Added successfully",
+	"UPDATED_SUCCESSFULLY": "Updated successfully",
+	"DELETED_SUCCESSFULLY": "Deleted successfully",
+	"NOT_FOUND": "Not Found",
+	"UPDATE_FALIED": "Update failed",
+	"REQUEST_WAS_SUCCESSFULL": "Request Was Successfull",
+	"TRY_AGAIN": "Server is busy, Please try again",
+	"PLEASE_UPLOAD_FILE": "Please upload file",
+	"FAILED_TO_UPLOAD_FILE": "Failed to upload file",
+	"UPLOADED_SUCCESSFULLY": "File uploaded successfully"
+}
